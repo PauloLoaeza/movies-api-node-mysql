@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "v1": "node ./v1/src/index.js",
+    "v2": "node ./v2/src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
